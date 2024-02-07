@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  font-family: sans-serif;
+}
+
+.container {
+  max-width: 1024px;
+  padding: 2rem;
+}
+
+
